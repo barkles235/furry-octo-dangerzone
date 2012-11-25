@@ -1,0 +1,8 @@
+
+tried to convert from sqlite3 to postgresql
+...may not be functional!!!
+
+added pg to Gemfile, built native extensions after having installed postgres-dev
+removed sqlite3 from Gemfile
+
+replaced sqlite3 with postgresql in: config/database.yml
